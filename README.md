@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Here's a few projects that I worked on when I had more free time on my hands. 
+
+These days most of my work is private and directly relating to CADflow. My interests mainly lie in computer vision with complex inputs (3D and video). I'm always exploring new ideas, so if anything here is interesting to you, I'd love to connect! 
 <!--
 **ryangoy/ryangoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
