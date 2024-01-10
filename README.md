@@ -1,3 +1,4 @@
+Hello, my name is Ryan Goy. I am currently working on 3D generative AI for manufacturing automation. At CADflow, we are looking to connect with anyone with experience in generative AI or 3D image processing.
 
 <!--
 **ryangoy/ryangoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
